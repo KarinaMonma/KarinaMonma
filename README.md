@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarinaMonma
-- 👀 I’m interested in learning, training, professional growth and to create a nice portolio for Data Science field
-- 🌱 I’m currently learning Data Science overall concepts by taking courses, and also starting my journey with Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on everything I'm able to collaborate. I hope to get enough knowledge to share with the world
+- 👀 I’m interested in traveling, music, food and technology.
+- 🌱 I’m currently transitioning careers from Virtual Environment Development/Design/Programming to Data Science.
+- 💞️ I’m looking to find myself in life both personaly and professionaly and live my best life.
 - 📫 How to reach me https://www.linkedin.com/in/karina-hissae-monma/
 
 <!---
